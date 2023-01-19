@@ -1,0 +1,11 @@
+numpy==1.23.3
+tensorflow==2.10.0
+matplotlib==3.6.0
+opencv-python==4.6.0.66
+keras==2.10.0
+Pillow==9.2.0
+scipy==1.9.1
+midv500==0.2.1
+scikit-learn==1.1.2
+jupyter==1.0.0
+imutils==0.5.4
